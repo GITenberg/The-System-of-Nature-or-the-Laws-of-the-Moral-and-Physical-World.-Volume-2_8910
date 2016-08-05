@@ -1,0 +1,66 @@
+_repo: The-System-of-Nature-or-the-Laws-of-the-Moral-and-Physical-World.-Volume-2_8910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holbach, Paul Henri Thiry, baron d'
+    alias: D'Holbach, Baron
+    birthdate: 1723
+    deathdate: 1789
+    gutenberg_agent_id: '2420'
+    url: http://www.gutenberg.org/2009/agents/2420
+    wikipedia: http://en.wikipedia.org/wiki/Baron_d'Holbach
+description: "The System of Nature or, the Laws of the Moral and Physical World (Système\
+  \ de la Nature ou Des Loix du Monde Physique et du Monde Moral) is a work of philosophy\
+  \ by Paul Henri Thiry, Baron d'Holbach (1723–1789). It was originally published\
+  \ under the name of Jean-Baptiste de Mirabaud, a deceased member of the French Academy\
+  \ of Science. D'Holbach wrote and published this book – possibly with the assistance\
+  \ of Diderot but with the support of Jacques-André Naigeon – anonymously in 1770,\
+  \ describing the universe in terms of the principles of philosophical materialism:\
+  \ The mind is identified with brain, there is no \"soul\" without a living body,\
+  \ the world is governed by strict deterministic laws, free will is an illusion,\
+  \ there are no final causes, and whatever happens takes place because it inexorably\
+  \ must. Most notoriously, the work explicitly denies the existence of God, arguing\
+  \ that belief in a higher being is the product of fear, lack of understanding, and\
+  \ anthropomorphism.\nThough not a scientist himself, d'Holbach was scientifically\
+  \ literate and he tried to develop his philosophy in accordance with the known facts\
+  \ of nature and the scientific knowledge of the day, citing, for example, the experiments\
+  \ of John Needham as proof that life could develop autonomously without the intervention\
+  \ of a deity. It makes a critical distinction between mythology as a more or less\
+  \ benign way of bringing law ordered thought on society, nature and their powers\
+  \ to the masses and theology. Theology which, when it separates from mythology raises\
+  \ the power of nature above nature itself and thus alienates the two (i.e. \"nature\"\
+  , all that actually exists, from its power, now personified in a being outside nature),\
+  \ is by contrast a pernicious force in human affairs without parallel. Its principles\
+  \ are summed up in a more popular form in d'Holbach's Bon Sens, ou idées naturelles\
+  \ opposees aux idées surnaturelles.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Atheism
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8910'
+  wikidata: Q1111930
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Materialism'
+- !lcsh 'Psychology'
+- !lcc 'B'
+- !lcsh 'Philosophy and religion'
+- GITenberg
+title: The System of Nature, or, the Laws of the Moral and Physical World. Volume
+  2
+url: http://www.gutenberg.org/ebooks/8910
+wikipedia:
+- https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_la_nature
+- https://sh.wikipedia.org/wiki/Syst%C3%A8me_de_la_nature
+- https://id.wikipedia.org/wiki/Syst%C3%A8me_de_la_Nature
+- https://pt.wikipedia.org/wiki/Sistema_da_Natureza
+- https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85_%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA
+- https://de.wikipedia.org/wiki/System_der_Natur
+- https://es.wikipedia.org/wiki/Syst%C3%A8me_de_la_Nature
+- https://lt.wikipedia.org/wiki/Gamtos_sistema
+- https://en.wikipedia.org/wiki/The_System_of_Nature
+- https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B8_(%D0%93%D0%BE%D0%BB%D1%8C%D0%B1%D0%B0%D1%85)
+- https://hr.wikipedia.org/wiki/Sustav_prirode
